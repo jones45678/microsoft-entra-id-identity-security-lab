@@ -52,11 +52,22 @@ Screenshots
 The screenshots are organized in the /screenshots folder. Captions below describe what each shoows:
 
 All Users View: The Entra ID user shows the four lab accounts (David Kim, John Carter, Marcus Hill, Sarah Lee) with assigned roles.
+
 All Groups View: The Security Groups created for the lab (Contractor, Finance, Help Desk, SOC Team) with object IDs.
 MFA Overview: MFA configuration for the tenant.
+
 Conditional Access policy list: Two user-created policies: "Block Legacy Authentication" and "Require MFA for Admins".
+
 Marcus Hill sign-in logs - These logs show the failed sign-in attempts used in the incident simulation.
+
 Incident Report: A written summary of the failed authentication investigation, including event details and resolution.
 
+<img width="1276" height="828" alt="unnamed" src="https://github.com/user-attachments/assets/55ddd920-38ac-4d7f-af53-847d198c3d84" />
+<img width="1280" height="831" alt="image" src="https://github.com/user-attachments/assets/0016ad92-d3cc-46d1-b60d-d0d5052856a2" />
+<img width="1280" height="405" alt="image" src="https://github.com/user-attachments/assets/4d23ac8c-efa0-4aca-8110-3acd2a9ad9ab" />
+<img width="1280" height="405" alt="image" src="https://github.com/user-attachments/assets/95f87513-8a33-4e4b-b77f-be3ed6fe8194" />
+<img width="1280" height="831" alt="image" src="https://github.com/user-attachments/assets/e5b992e9-8593-4a5b-a703-f638c0686dfc" />
+<img width="1268" height="823" alt="image" src="https://github.com/user-attachments/assets/e2abcc2b-c353-44b8-8a82-7848f531bfa8" />
+<img width="1280" height="405" alt="image" src="https://github.com/user-attachments/assets/3d4d3392-80da-4c0a-9a17-ca5327ae3f7a" />
 
 
