@@ -22,6 +22,8 @@ Groups Created:
 - Finance
 - Contractors
 
+Each group was assigned to reflect the 
+
 Security Configuration: 
 - Configured MFA to strengthen account security for administrative users and reduce the risk of unauthorized access.
 - Implemented two Conditional Access policies based on identity and security requirements: Require MFA for Admins & Block Legacy Authentication.
@@ -44,3 +46,14 @@ Outcome:
 - MFA and access controls helped protect account security.
 
 This project demonstrated practical experience in IT support fundamentals, authentication security and administrative troubleshooting tasks commonly used in professional IT environments. 
+
+
+Screenshots
+
+The screenshots are organized in the /screenshots folder. Captions below describe what each shoows:
+1. All Users View: The Entra ID user shows the four lab accounts (David Kim, John Carter, Marcus Hill, Sarah Lee) with assigned roles.
+2. All Groups View: The Security Groups created for the lab (Contractor, Finance, Help Desk, SOC Team) with object IDs.
+3. MFA Overview: MFA configuration for the tenant.
+4. Conditional Access policy list: Two user-created policies: "Block Legacy Authentication" and "Require MFA for Admins".
+5. Marcus Hill sign-in logs - These logs show the failed sign-in attempts used in the incident simulation.
+6. Incident Report: A written summary of the failed authentication investigation, including event details and resolution. 
